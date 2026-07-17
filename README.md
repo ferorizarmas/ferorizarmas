@@ -5,7 +5,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/mariaoriza/mariaoriza/output/github-contribution-grid-snake.svg" />
 </picture>
 <!--
-**ferorizarmas/ferorizarmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mariaoriza/mariaoriza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
