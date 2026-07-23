@@ -1,6 +1,6 @@
 <h1 style="text-align: center; margin-bottom: 0;">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=100&lines=%24+whoami;Maria+Oriza" alt="Title GitHub Readme" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&color=39FF14&multiline=true&width=650&height=100&lines=%24+whoami;Maria+Oriza" alt="Title GitHub Readme" />
   </a>
 </h1>
 
